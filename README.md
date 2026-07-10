@@ -4,7 +4,7 @@ Code and analysis pipeline for the study *"Machine Learning Prediction of
 Work-Related Sick Leave in Mental Disorders: A TRIPOD+AI Analysis of
 Brazilian National Surveillance Data (2006–2025)"*.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1295588381.svg)](https://doi.org/10.5281/zenodo.21283514)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![R](https://img.shields.io/badge/R-4.4.1-blue.svg)](https://www.r-project.org/)
 
